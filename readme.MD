@@ -8,6 +8,6 @@
 
 
 # 测试demo
-create-archetype 创建一个空的原型项目,安装: mvn install
-springboot-blank 创建springboot 原型, 安装: mvn install
+1. create-archetype 创建一个空的原型项目,安装: mvn install
+2. springboot-blank 创建springboot 原型, 安装: mvn install
 
